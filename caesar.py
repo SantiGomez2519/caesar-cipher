@@ -1,6 +1,6 @@
-# Spanish alphabet: 27 letters (includes ñ after n)
-ALPHABET_LOWER = "abcdefghijklmnñopqrstuvwxyz"
-ALPHABET_UPPER = "ABCDEFGHIJKLMNÑOPQRSTUVWXYZ"
+# English alphabet: 26 letters
+ALPHABET_LOWER = "abcdefghijklmnopqrstuvwxyz"
+ALPHABET_UPPER = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 ALPHABET_SIZE = len(ALPHABET_LOWER)
 
 
